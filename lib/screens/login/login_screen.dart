@@ -56,7 +56,7 @@ class _LoginPageState extends State<LoginPage> {
               Icons.email,
               color: mainColor,
             ),
-            labelText: 'E-mail / Username'),
+            labelText: 'E-mail'),
       ),
     );
   }
